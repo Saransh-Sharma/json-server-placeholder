@@ -1,6 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "saransh1337" }
+    { "id": 1, "title": "json-server", "author": "saransh1337" },
+    { "id": 2, "title": "json-server", "author": "Carl Sagan" },
+    { "id": 3, "title": "json-server", "author": "Richard Feynman" },
+    { "id": 4, "title": "json-server", "author": "Sam Harris" },
+    { "id": 5, "title": "json-server", "author": "Joe Rogan" }
   ],
   "comments": [
     { "id": 1, "body": "here is some comment", "postId": 1 }
