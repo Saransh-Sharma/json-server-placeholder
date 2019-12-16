@@ -1,13 +1,60 @@
 {
   "posts": [
-    { "id": 1, "title": "The Simulation Argument", "author": "saransh1337" },
-    { "id": 2, "title": "Contact", "author": "Carl Sagan" },
-    { "id": 3, "title": "Feynman Lectures", "author": "Richard Feynman" },
-    { "id": 4, "title": "End Of Faith", "author": "Sam Harris" },
-    { "id": 5, "title": "Joeing Around", "author": "Joe Rogan" }
+    {
+      "id": 1,
+      "title": "The Simulation Argument",
+      "author": "saransh1337"
+    },
+    {
+      "id": 2,
+      "title": "Contact",
+      "author": "Carl Sagan"
+    },
+    {
+      "id": 3,
+      "title": "Feynman Lectures",
+      "author": "Richard Feynman"
+    },
+    {
+      "id": 4,
+      "title": "End Of Faith",
+      "author": "Sam Harris"
+    },
+    {
+      "id": 5,
+      "title": "Joeing Around",
+      "author": "Joe Rogan"
+    },
+    {
+      "id": 6,
+      "title": "Title_6",
+      "author": "Author_6"
+    },
+    {
+      "author": "Author_7",
+      "id": "7",
+      "title": "Title_7"
+    },
+    {
+      "author": "Author_8",
+      "id": "8",
+      "title": "Title_8"
+    },
+    {
+      "author": "Carl Marx",
+      "id": "10",
+      "title": "The Red Book"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "here is some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "here is some comment",
+      "postId": 1
+    }
   ],
-  "profile": { "name": "saransh1337" }
+  "profile": {
+    "name": "saransh1337",
+    "postId": "3"
+  }
 }
